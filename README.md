@@ -1,4 +1,4 @@
-# Flappy Bird Clone 🐤
+# Flappy Bird 🐤
 
 A simple Flappy Bird game made with HTML, CSS, and vanilla JavaScript.
 
